@@ -4,7 +4,7 @@ This repository contains laboratory experiments performed for the subject **Imag
 
 ---
 
-## 📘 Index of Experiments
+## Index of Experiments
 
 ### Experiment 1: Basic Operations on Images  
 **Aim:** To perform basic pixel-level arithmetic, logical, and geometric operations on digital images.
@@ -38,5 +38,5 @@ This repository contains laboratory experiments performed for the subject **Imag
 
 ---
 
-## 👤 Author
+## Author
 **Uzair Shaikh**
