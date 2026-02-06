@@ -10,7 +10,8 @@ This repository contains laboratory experiments performed for the subject **Imag
 **Aim:** To perform basic pixel-level arithmetic, logical, and geometric operations on digital images.
 
 ### Experiment 2:  
-**Aim:** 
+**Aim:** A. To plot the histogram of the given image and to perform histogram equalization. 
+         B. To apply Geometric transforms on the given image. 
 
 ### Experiment 3:  
 **Aim:** 
