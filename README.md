@@ -16,7 +16,6 @@ This repository contains laboratory experiments performed for the subject **Imag
 ### Experiment 3:  
 **Aim:** A. To study spatial domain low pass filtering of an image with mean, median filters. 
             Compare the performance of these two filters. Observe the effect of varying mask size on the filtered image.
-            
          B. To study spatial domain high pass filtering of an image with sharpening filter. 
 
 ### Experiment 4:  
